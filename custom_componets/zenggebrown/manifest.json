@@ -4,5 +4,6 @@
   "codeowners": ["@SKui"],
   "documentation": "https://github.com/SKui1/HA_zengge_non_bluepy",
   "iot_class": "local_polling",
+  "version": "1.0.0",
   "loggers": ["zenggebrown"]
 }
