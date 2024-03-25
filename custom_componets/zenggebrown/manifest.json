@@ -2,8 +2,10 @@
   "domain": "zenggebrown",
   "name": "Zengge Brown",
   "codeowners": ["@SKui"],
-  "documentation": "https://github.com/SKui1/HA_zengge_non_bluepy",
+  "config_flow": true,
   "iot_class": "local_polling",
   "version": "1.0.0",
-  "loggers": ["zenggebrown"]
+  "documentation": "https://github.com/SKui1/HA_zengge_non_bluepy",
+  "loggers": ["custom_components.zenggebrown"],
+  "requirements": []
 }
