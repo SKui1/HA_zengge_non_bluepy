@@ -1,8 +1,8 @@
 {
-  "domain": "zengge",
-  "name": "Zengge",
-  "codeowners": ["@emontnemery"],
-  "documentation": "https://www.home-assistant.io/integrations/zengge",
+  "domain": "zenggebrown",
+  "name": "Zengge Brown",
+  "codeowners": ["@SKui"],
+  "documentation": "https://github.com/SKui1/HA_zengge_non_bluepy",
   "iot_class": "local_polling",
   "loggers": ["zengge"],
   "requirements": ["zengge==0.2"]
