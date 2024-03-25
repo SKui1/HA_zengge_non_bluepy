@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aad168a-41ce-4d15-a5fe-2a3b5447619a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/custom_componets/zenggebrown/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/custom_componets/zenggebrown/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_components/zenggebrown/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/custom_components/zenggebrown/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711407193892</updated>
       <workItem from="1711407194955" duration="15000" />
-      <workItem from="1711407281133" duration="1358000" />
+      <workItem from="1711407281133" duration="1739000" />
     </task>
     <servers />
   </component>
